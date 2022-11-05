@@ -1,0 +1,26 @@
+:root {
+  --light-primary: #9ff7cd;
+  --light-secondary: #a6ffd4;
+  --dark-primary: rgb(51, 57, 84);
+  --dark-secondary: #4c547c;
+  --dark-accent: #d3d8f1;
+  --primary-font: "Ubuntu", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+/* small screens */
+@media (max-width: 850px) {
+}
+
+/* medium screens */
+@media (min-width: 850px) {
+}
+/* large screens */
+@media (min-width: 1300px) {
+}
